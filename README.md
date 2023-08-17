@@ -8,7 +8,7 @@ A simple Node.js package that checks, if a given string is null or empty.
 
 First, install the package using npm:
 
-    npm install @skalwar/null_or_empty --save
+    npm install git remote add origin https://github.com/sanisaha/testNode.git
 
 Then, require the package and use it like so:
 
